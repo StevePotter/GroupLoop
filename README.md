@@ -14,4 +14,6 @@ I've been meaning to write the full story but my time is limited.  I recently st
 
 I wrote this when I was 19, when there was no stackoverflow and when Google had just come out.  Pages were laid out with tables.  IE6 hadn't even come out yet.
 
-Don't try to get this code working.  Or try and let me know how far you get.  Thanks!
+There is no license yet because I haven’t decided what to use.  This is just to exhibit some code that ran a business that could have made it but failed.  Check it out and let me know what you think
+
+- Steve
