@@ -1,0 +1,44 @@
+/******************************************************************************
+* Defines default styles for site pages.                                      *
+******************************************************************************/
+
+
+
+
+
+ul {
+  list-style-type: square;
+}
+
+.footer {
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+/* Boxed table styles */
+
+table.boxed {
+  border-spacing: 2px;
+  empty-cells: hide;
+}
+
+td.boxed, th.boxed, th.boxedHeader {
+  background-color: #ffffff;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  color: #000000;
+  padding: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+th.boxed {
+  background-color: #c0c0c0;
+}
+
+th.boxedHeader {
+  background-color: #808080;
+  color: #ffffff;
+}
+
